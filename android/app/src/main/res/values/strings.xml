@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Just The TAP</string>
+    <!-- <string name="facebook_app_id">2879494358804824</string>540768853310762
+        <string name="fb_login_protocol_scheme">fb2879494358804824</string> -->
+
+<string name="facebook_app_id">540768853310762</string>
+        <string name="fb_login_protocol_scheme">fb540768853310762</string>
+        
+        <string name="GoogleAPIkey">AIzaSyDCr2WVrN4mC-8e9T6IYBXFwhPaO-5xejQ</string>
+         <string name="default_notification_channel_id">fcm_default_channel</string>
+       
+        <!-- AIzaSyBCALrZPZHiNCo9-Q94TjnLBGyjYTDxEQY -->
+
+        
+</resources>

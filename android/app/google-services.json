@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "89875419063",
+    "firebase_url": "https://tapbrewery.firebaseio.com",
+    "project_id": "tapbrewery",
+    "storage_bucket": "tapbrewery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89875419063:android:1ef9d17e1226f6d3f36232",
+        "android_client_info": {
+          "package_name": "com.richestsoft.tapbrewery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89875419063-fk84ojcthmi2r74pgj7a73ta78mbu0m1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.richestsoft.tapbrewery",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "89875419063-95cjkd082rl66ia8bqlgka1uvp5f9i0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCr2WVrN4mC-8e9T6IYBXFwhPaO-5xejQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89875419063-95cjkd082rl66ia8bqlgka1uvp5f9i0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

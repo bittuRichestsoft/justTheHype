@@ -1,0 +1,31 @@
+const colors = {
+  PrimaryColor: '#181818',
+  LightGreenColor: '#99e265',
+  ViewBorderColor: '#ddd',
+  hintColor: '#34495e',
+  textColor: '#ecf0f1',
+  lineColor: '#CED0CE',
+  orangeColor: '#FFBA00',
+  GlowColor: '#f4f1f1',
+  fadeColor: '#e3dbdb',
+  bckgrdComment: '#edeeec',
+  colorGray: '#939393',
+  timecolor: '#a2a3a1',
+  whiteSmoke: '#F5F5F5',
+  yellowColor: '#f5ba01',
+  statusBarColor: '#F7F6F7',
+  white: '#FFFFFF',
+  blueColor: '#1084ff',
+  darkStatusColor: '#e9e9eb',
+  colorWhiteTransparent:'#f8f9f88f',
+  colorBlueLight:'#4fa2e2',
+  colorOrange: '#f27b44',
+  colorGreen: '#56af16',
+  colorBlue: '#4aa2ea',
+  colorWhiteBlur: '#fef9fe',
+  colorYellow: '#f1790f',
+  colorRed: '#e91f20',
+  lightGray: '#cccccc'
+}
+
+export default colors
